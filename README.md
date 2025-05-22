@@ -1,2 +1,2 @@
 # cs-hackathon-1
-Chrome extension 
+CodeSam V1 Chrome extension 
